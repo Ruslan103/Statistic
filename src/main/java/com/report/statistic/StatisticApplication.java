@@ -11,4 +11,5 @@ public class StatisticApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(StatisticApplication.class, args);
 	}
+	//
 }
