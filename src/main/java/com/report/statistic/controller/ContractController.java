@@ -12,7 +12,7 @@ public class ContractController {
    private final ContractServiceImpl contractService;
     @PostMapping
     public int addContract(){
-        contractService.addContract();
+      //  contractService.addContract();
         return 1;
     }
     @GetMapping
